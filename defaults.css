@@ -1,0 +1,26 @@
+/* Import a font */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+
+:root {
+  --body-background: #ece8ef;
+  --body-text-colour: #000500;
+
+  --nav-colour: goldenrod;
+  --nav-items-colour: black
+  ;
+  --nav-items-active: white;
+
+  --burger-colour: white;
+
+  --fact-text-colour: #ece8ef;
+  --fact-background: #000500a5;
+  --body-font: "Orbitron", sans-serif;
+  --text-colour-light-mode-year: #000000;
+  --text-colour-light-mode-logo: #000000;
+  --text-colour-light-mode-nav: #000000;
+  --text-colour-light-mode-nav-hover: #2196f3;
+  --background-colour-light-mode-header: #e6b400;
+  --background-colour-light-mode-footer: #e6b400;
+  --text-colour-light-mode-footer: #000000;
+}
